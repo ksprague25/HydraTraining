@@ -8,6 +8,7 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:w
 :q!
 
 # Search String History (newest to oldest):
@@ -21,12 +22,22 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.ssh/id_rsa
+'0  12  2  ~/hydracamp/Gemfile
+'1  1  0  ~/.ssh/id_rsa
 
 # Jumplist (newest first):
+-'  12  2  ~/hydracamp/Gemfile
+-'  1  0  ~/hydracamp/Gemfile
+-'  1  0  ~/.ssh/id_rsa
 -'  1  0  ~/.ssh/id_rsa
 
 # History of marks within files (newest to oldest):
+
+> ~/hydracamp/Gemfile
+	"	12	2
+	^	12	3
+	.	12	2
+	+	12	2
 
 > ~/.ssh/id_rsa
 	"	1	0
