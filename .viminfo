@@ -7,11 +7,16 @@
 
 # hlsearch on (H) or off (h):
 ~H
+# Last Search Pattern:
+~MSle0~/requests
+
 # Command Line History (newest to oldest):
-:w
 :q!
+:w!
+:w
 
 # Search String History (newest to oldest):
+?/requests
 
 # Expression History (newest to oldest):
 
@@ -20,24 +25,160 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	      response.status.should be(200)
 
 # File marks:
-'0  12  2  ~/hydracamp/Gemfile
-'1  1  0  ~/.ssh/id_rsa
+'0  7  45  ~/hydracamp/spec/features/zombies_spec.rb
+'1  3  20  ~/hydracamp/app/controllers/zombies_controller.rb
+'2  1  0  ~/hydracamp/app/controllers/zombiew_controller.rb
+'3  4  0  ~/hydracamp/app/controllers/zombies_controller.rb
+'4  3  17  ~/hydracamp/config/routes.rb
+'5  1  0  spec/features/zombies_spec.rb
+'6  12  1  ~/hydracamp/Gemfile
+'7  1  0  spec/requests/zombies_spec.rb
+'8  13  2  ~/hydracamp/Gemfile
+'9  1  0  ~/.ssh/id_rsa
 
 # Jumplist (newest first):
--'  12  2  ~/hydracamp/Gemfile
+-'  7  45  ~/hydracamp/spec/features/zombies_spec.rb
+-'  1  0  ~/hydracamp/spec/features/zombies_spec.rb
+-'  3  20  ~/hydracamp/app/controllers/zombies_controller.rb
+-'  4  1  ~/hydracamp/app/controllers/zombies_controller.rb
+-'  1  0  ~/hydracamp/app/controllers/zombiew_controller.rb
+-'  1  0  ~/hydracamp/app/controllers/zombies_controller.rb
+-'  3  17  ~/hydracamp/config/routes.rb
+-'  1  0  ~/hydracamp/config/routes.rb
+-'  1  0  spec/features/zombies_spec.rb
+-'  12  1  ~/hydracamp/Gemfile
+-'  1  0  spec/requests/zombies_spec.rb
+-'  13  0  ~/hydracamp/Gemfile
 -'  1  0  ~/hydracamp/Gemfile
 -'  1  0  ~/.ssh/id_rsa
 -'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  spec/requests/zombies_spec.rb
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  12  1  ~/hydracamp/Gemfile
+-'  1  0  spec/requests/zombies_spec.rb
+-'  13  0  ~/hydracamp/Gemfile
+-'  1  0  ~/hydracamp/Gemfile
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  spec/requests/zombies_spec.rb
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  spec/features/zombies_spec.rb
+-'  12  1  ~/hydracamp/Gemfile
+-'  1  0  spec/requests/zombies_spec.rb
+-'  13  0  ~/hydracamp/Gemfile
+-'  1  0  ~/hydracamp/Gemfile
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  spec/requests/zombies_spec.rb
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  12  1  ~/hydracamp/Gemfile
+-'  1  0  spec/requests/zombies_spec.rb
+-'  13  0  ~/hydracamp/Gemfile
+-'  1  0  ~/hydracamp/Gemfile
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  spec/requests/zombies_spec.rb
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/.ssh/id_rsa
+-'  3  17  ~/hydracamp/config/routes.rb
+-'  1  0  ~/hydracamp/config/routes.rb
+-'  1  0  spec/features/zombies_spec.rb
+-'  12  1  ~/hydracamp/Gemfile
+-'  1  0  spec/requests/zombies_spec.rb
+-'  13  0  ~/hydracamp/Gemfile
 
 # History of marks within files (newest to oldest):
 
+> ~/hydracamp/spec/features/zombies_spec.rb
+	"	7	45
+	^	7	46
+	.	8	0
+	+	8	0
+	+	8	0
+
+> ~/hydracamp/app/controllers/zombies_controller.rb
+	"	3	20
+	^	3	21
+	.	3	20
+	+	4	0
+	+	3	20
+
+> ~/hydracamp/app/controllers/zombiew_controller.rb
+	"	1	0
+
+> ~/hydracamp/config/routes.rb
+	"	3	17
+	^	3	18
+	.	3	17
+	+	3	17
+
+> spec/features/zombies_spec.rb
+	"	1	0
+
 > ~/hydracamp/Gemfile
-	"	12	2
-	^	12	3
-	.	12	2
-	+	12	2
+	"	12	1
+	^	12	15
+	.	12	14
+	+	13	2
+	+	12	14
+
+> spec/requests/zombies_spec.rb
+	"	1	0
 
 > ~/.ssh/id_rsa
 	"	1	0
